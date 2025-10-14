@@ -1,4 +1,4 @@
-# \# 🎨 Graphic Design Internship Projects  
+# \# Graphic Design Internship Projects  
 
 # 
 
