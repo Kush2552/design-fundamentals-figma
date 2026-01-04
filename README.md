@@ -1,1 +1,2 @@
-# About Graphics design...
+# About Design Fundamentals
+# Using Figma and various plugins
